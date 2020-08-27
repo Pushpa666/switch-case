@@ -16,11 +16,11 @@
 9.       {    
 10.        case 1:System.out.println("you said hi");
 11.                 break;
-12.        case 1:System.out.println("you said Hey");
+12.        case 2:System.out.println("you said Hey");
 13.                 break;
-14.        case 1:System.out.println("you said hello");
+14.        case 3:System.out.println("you said hello");
 15.                   break;
-16.        default:1:System.out.println("invalid choice");
+16.        default:System.out.println("invalid choice");
 17.        }
 18.     }
 19. }
